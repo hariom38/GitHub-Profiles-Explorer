@@ -64,7 +64,7 @@ The app will start at `http://localhost:3000`
   * Username
   * Direct profile link on GitHub
 
----
+---j
 
 ## 🔮 Future Improvements
 
